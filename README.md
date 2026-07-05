@@ -5,7 +5,7 @@
 **Organization:** Government of Jammu & Kashmir  
 **Theme:** MedTech / HealthTech  
 **Category:** Software  
-**Student:** GURUSUDHAN R | Roll No: 922525205049  
+**Student:** GURUSUDHAN R 
 
 ---
 
