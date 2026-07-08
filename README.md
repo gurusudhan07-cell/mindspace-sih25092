@@ -38,7 +38,11 @@ MindSpace is a 24/7 digital mental health support platform built exclusively for
 | Storage | localStorage (browser) |
 | Hosting | Vercel |
 
+
+link to open the project :
+https://mindspace-sih25092-8gu1.vercel.app?_vercel_share=cTftHZrlPeLnKXylWCzHzFmbbkFNktAH
 ---
+
 
 ## How to Run Locally
 
